@@ -10,6 +10,7 @@ node_js:
   - '6'
 install:
   - npm install -g codeclimate-test-reporter
+  - npm install
 script:
   - npm run commitlint-travis
   - npm run lint
