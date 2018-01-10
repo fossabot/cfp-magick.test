@@ -8,6 +8,7 @@ async function main () {
     const eventsWithCfp = reduce(conferenceData)
     display(eventsWithCfp)
   } catch (error) {
+    console.warn('An error occured:')
     console.error(error)
   }
 }
