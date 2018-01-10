@@ -9,6 +9,7 @@
   "scripts": {
     "lint": "standard --verbose | snazzy",
     "test": "jest",
+    "coverage": "jest --coverage",
     "cz": "git-cz",
     "commitmsg": "commitlint -e $GIT_PARAMS",
     "commitlint-travis": "commitlint-travis",
