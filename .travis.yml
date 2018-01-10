@@ -9,7 +9,7 @@ node_js:
   - '8'
   - '6'
 script:
-  - commitlint-travis
+  - npm run commitlint-travis
   - npm run lint
   - npm test
 after_success:
