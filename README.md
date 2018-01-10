@@ -1,4 +1,6 @@
 # Project Title
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fasciidisco%2Fcfp-magick.test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fasciidisco%2Fcfp-magick.test?ref=badge_shield)
+
 
 One Paragraph of project description goes here
 
@@ -80,9 +82,11 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fasciidisco%2Fcfp-magick.test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fasciidisco%2Fcfp-magick.test?ref=badge_large)
+
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
-
