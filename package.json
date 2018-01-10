@@ -11,7 +11,7 @@
     "test": "jest",
     "cz": "git-cz",
     "commitmsg": "commitlint -e $GIT_PARAMS",
-    "semantic-release": "semantic-release",
+    "semantic-release": "semantic-release -d",
     "travis-deploy-once": "travis-deploy-once"
   },
   "repository": {
